@@ -9,5 +9,5 @@ Geometry optimization for all molecules in this PB20-QM-8k dataset were conducte
 Geometry optimization for all molecules in this PB20-QM-3k dataset were performed by the above-mentioned DFT, GFN2-xTB, AIQM1, and ANI-2x methods.
 
 
-## Citations
-YAN, Z. Y., Wei, D. C., Li, X., and Chung, L. W. Accelerating Reliable Multiscale Quantum Refinement of Protein–Drug Systems Enabled by Machine Learning. *Submitted*. **2024**
+## Citation
+YAN, Z. Y., Wei, D. C., Li, X., and Chung, L. W. Accelerating Reliable Multiscale Quantum Refinement of Protein–Drug Systems Enabled by Machine Learning. *Nat. Commun.* **2024**, 15, 4181. [DOI: 10.1038/s41467-024-48453-4](https://www.nature.com/articles/s41467-024-48453-4) 
